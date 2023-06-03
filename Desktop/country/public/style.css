@@ -1,0 +1,45 @@
+#container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  #p2 {
+    margin-top: 10px;
+  }
+  
+  #error {
+    color: red;
+  }
+  
+  #p3 {
+    margin-top: 20px;
+  }
+  
+  #myImage {
+    max-width: 200px;
+    margin-top: 20px;
+  }
+
+  .logo-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#map-container{
+  margin-bottom: 50px;
+}
+#imgm{
+  max-width: 200px;
+}
+#wrapper{
+  margin-top: 50px;
+}
