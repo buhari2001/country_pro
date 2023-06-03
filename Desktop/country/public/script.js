@@ -1,6 +1,7 @@
 var inp=document.getElementById("p1");
 var btn=document.getElementById("p2");
 //seperating
+//seperating
 var headlogo=document.getElementById('p10');
 var yname=document.getElementById("p3");
 var continent=document.getElementById("p4");
