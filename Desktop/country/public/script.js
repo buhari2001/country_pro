@@ -61,6 +61,6 @@ btn.addEventListener('click',()=>{
 
         setTimeout(() => {
             document.getElementById("error").innerHTML="";
-        }, 3000);
+        }, 4000);
     })
 })
